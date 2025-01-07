@@ -17,7 +17,7 @@
 </div><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-nte&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-nte)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
