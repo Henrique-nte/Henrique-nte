@@ -1,0 +1,23 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main  # Troque para o nome da sua branch principal, se não for "main"
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza todos os dias à meia-noite
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
