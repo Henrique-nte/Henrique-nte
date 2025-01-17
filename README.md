@@ -67,6 +67,6 @@ Sinta-se à vontade para explorar meu perfil e entrar em contato.
 
 ---
 
-![Snake animation](https://github.com/Henrique-nte/Henrique-nte/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/henrique-nte/henrique-nte/blob/output/github-contribution-grid-snake.svg)
 
 ---
