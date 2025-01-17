@@ -65,3 +65,6 @@ Sinta-se à vontade para explorar meu perfil e entrar em contato.
 > **"A melhor maneira de prever o futuro é inventá-lo."**  
 > — *Alan Kay*
 
+---
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
