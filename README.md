@@ -52,7 +52,7 @@ Bem-vindo ao meu perfil! Aqui você pode encontrar informações sobre mim, minh
 ## 🎯 Objetivos Futuros:
 
 - 💡 Aprofundar meus conhecimentos em **Node.js, Go e React**.
-- 🔍 Explorar tecnologias como **Criação de servidores** **Criação de projetos FULL-STACK**.
+- 🔍 Explorar tecnologias como **Criação de servidores** e **Criação de projetos FULL-STACK**.
 - 🚀 Desenvolver projetos com diferentes tecnologias FRONT-END e BACK-END.
 
 ---
