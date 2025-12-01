@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil! Aqui você pode encontrar informações sobre mim, minh
 
 ---
 
-## 🚀 Tecnologias que uso:
+## 🚀 Tecnologias que utilizo:
 
 <div style="display: flex; flex-wrap: wrap;">
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,14 +29,13 @@ Bem-vindo ao meu perfil! Aqui você pode encontrar informações sobre mim, minh
    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-
 </div>
 
 ---
 
 ## 😉 Sobre mim:
 
-- 💻 Estudante apaixonado por programação, com formação em dois cursos técnicos profissionalizantes.
+- 💻 Estudante apaixonado por programação, com formação em dois cursos técnicos profissionalizantes e atualmente cursando Engenharia de Software.
 - 🚀 Atualmente, sou Jovem Aprendiz na área de Programação de Sistemas no **Grupo Malwee**.
 - 🌱 Estou sempre em busca de novos conhecimentos e sonho em contribuir para o avanço tecnológico da humanidade.
 - 🎯 Meu objetivo é desenvolver soluções inovadoras que façam a diferença no mundo.
@@ -52,9 +51,9 @@ Bem-vindo ao meu perfil! Aqui você pode encontrar informações sobre mim, minh
 
 ## 🎯 Objetivos Futuros:
 
-- 💡 Aprofundar meus conhecimentos em **IA utilizando Python**.
-- 🔍 Explorar tecnologias como **Machine Learning**, **Processamento de Linguagem Natural (NLP)** e **OpenAI GPT**.
-- 🚀 Contribuir para projetos de código aberto.
+- 💡 Aprofundar meus conhecimentos em **Node.js e Go**.
+- 🔍 Explorar tecnologias como **Criação de servidores** ****  ****.
+- 🚀 Desenvolver projetos com diferentes tecnologias FRONT-END e BACK-END.
 
 ---
 
