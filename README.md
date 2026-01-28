@@ -45,10 +45,8 @@
 
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/Henrique-nte/count.svg" /></p> 
-<br></div> 
+![Visitors](https://profile-counter.glitch.me/Henrique-nte/count.svg?refresh=1)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0002&height=120&section=footer"/>
