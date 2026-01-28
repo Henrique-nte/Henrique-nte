@@ -44,9 +44,10 @@
 ![Espressif](https://img.shields.io/badge/-Espressif-0D1117?style=for-the-badge&logo=espressif&labelColor=0D1117)&nbsp;
 
 
-
-![Visitors](https://profile-counter.glitch.me/Henrique-nte/count.svg?refresh=1)
-
+<div align="center">
+  <p><b>Visitors Count</b></p>
+  <img src="https://profile-counter.glitch.me/Henrique-nte/count.svg">
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0002&height=120&section=footer"/>
