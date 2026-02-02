@@ -41,6 +41,7 @@
 ![GO](https://img.shields.io/badge/-GO-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 ![Espressif](https://img.shields.io/badge/-Espressif-0D1117?style=for-the-badge&logo=espressif&labelColor=0D1117)&nbsp;
+![Databricks](https://img.shields.io/badge/-Databricks-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
