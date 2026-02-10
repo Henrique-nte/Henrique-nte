@@ -1,53 +1,88 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066e6&height=150&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=080808&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Henrique+Santos;I+study+Software+engineering+at+Católica+SC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henrique-nte&show_icons=true&count_private=true&hide_border=true&title_color=fffafa&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Santos github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-nte&layout=compact&hide_border=true&title_color=fffafa&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Henrique-nte&bg_color=000000&color=0066e6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066e6&height=140&section=header"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Henrique-nte&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0066e6&size=32&center=true&vCenter=true&width=900&lines=Hello!+I'm+Henrique+Santos;Software+Engineering+Student;Backend+%7C+Systems+%7C+Low+Level;Welcome+to+my+GitHub+👋" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/henrique.nte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![GO](https://img.shields.io/badge/-GO-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+---
 
-### Tools:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![GO](https://img.shields.io/badge/-GO-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Espressif](https://img.shields.io/badge/-Espressif-0D1117?style=for-the-badge&logo=espressif&labelColor=0D1117)&nbsp;
-![Databricks](https://img.shields.io/badge/-Databricks-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
+## 👨‍💻 About Me
 
+- 🎓 Software Engineering student at **Católica SC**
+- 💡 Interested in **backend, systems programming and embedded**
+- 🚀 Always learning and building things
+- 🇧🇷 Brazil
+
+---
+
+## 🛠️ Main Skills
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+
+---
+
+## 🧰 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
+
+---
+
+## 📚 Other Knowledge
+
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)
+
+---
+
+## 📖 Currently Studying
+
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
+![Espressif](https://img.shields.io/badge/Espressif-0D1117?style=for-the-badge&logo=espressif)
+![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/Henrique-nte/count.svg">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Henrique-nte&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-nte&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066e6&height=120&section=footer"/>
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-nte&bg_color=transparent&color=0066e6&line=0066e6&point=0a855c&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/henrique.nte/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Henrique-nte/count.svg" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066e6&height=120&section=footer"/>
