@@ -6,16 +6,16 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Software Engineering student at **Católica SC**
-- 💡 Interested in **backend, systems programming and embedded**
-- 🚀 Always learning and building things
-- 🇧🇷 Brazil
+-  Software Engineering student at **Católica SC**
+-  Interested in **backend, systems programming and embedded**
+-  Always learning and building things
+-  Brazil
 
 ---
 
-## 🛠️ Main Skills
+##  Main Skills
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📚 Other Knowledge
+##  Other Knowledge
 
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3)
@@ -45,7 +45,7 @@
 
 ---
 
-## 📖 Currently Studying
+##  Currently Studying
 
 ![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Henrique-nte&show_icons=true&hide_border=true&theme=transparent" />
@@ -63,7 +63,7 @@
 
 ---
 
-## 🔥 Activity
+##  Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-nte&bg_color=transparent&color=0066e6&line=0066e6&point=0a855c&hide_border=true" />
@@ -71,7 +71,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.instagram.com/henrique.nte/" target="_blank">
